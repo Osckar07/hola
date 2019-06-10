@@ -23,6 +23,7 @@ namespace hola
         public MainWindow()
         {
             InitializeComponent();
+            hola
         }
     }
 }
