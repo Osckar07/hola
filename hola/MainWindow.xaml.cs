@@ -24,6 +24,7 @@ namespace hola
         {
             InitializeComponent();
             hola
+
         }
     }
 }
