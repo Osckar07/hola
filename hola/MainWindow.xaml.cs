@@ -24,7 +24,11 @@ namespace hola
         {
             InitializeComponent();
             hola
+                hola
+                {
+                asjnasjcnasnc
 
+            }
         }
     }
 }
